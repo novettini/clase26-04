@@ -1,0 +1,23 @@
+.card{
+    text-align: center;
+    background-color: rgb(93, 248, 93);
+    margin: auto;
+    justify-content:center;
+}      
+.verde{
+    border: solid grey;
+} 
+body{
+    background-image: url(fondo.jpg);
+}
+.list-group-item{
+    background-color: rgb(93, 248, 93);
+}
+.text-md-start{
+    color:black;
+    font-weight: bold;
+}
+    .izquierda{
+        background-color:rgb(93, 248, 93);
+        opacity: 50%;
+    }
